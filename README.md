@@ -1,0 +1,1 @@
+"# Stego-LSB-palettebased" 
